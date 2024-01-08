@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./header.css";
 
 const Header = () => {
@@ -34,7 +34,7 @@ const Header = () => {
             className="header-profile-image"
             alt="Profile"
           />
-          <span className="header-username">Shuvam</span>
+          <span className="header-username">Anish</span>
           <i className="fi fi-rr-angle-small-down absolute-center profile-options-icon"></i>
         </div>
       </div>
