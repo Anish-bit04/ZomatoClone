@@ -1,9 +1,9 @@
 
 
-const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+import HomePage from './pages/home';
 
-export default App
+const App = () => {
+  return <HomePage />;
+};
+
+export default App;

@@ -1,4 +1,4 @@
-import React from "react";
+
 import { restaurants } from "../../data/restaurants";
 import ExploreSection from "../common/exploreSection";
 
